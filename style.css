@@ -1,0 +1,47 @@
+*{
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+body{
+    text-align: left;
+    text-decoration-color: brown;
+    text-size-adjust: 200;
+    background-color: burlywood;
+}
+p{
+    text-align: left;
+    font-size: larger;
+    color: orangered;
+    background-color: rgb(red, green, blue);
+    border: 50px solid color(srgb red green blue);
+}
+div
+{
+    border: 7px solid gold;
+    border-color: greenyellow;
+    
+}
+
+.img
+{
+    border: 60px ;
+    margin: auto;
+    background-color: blue;
+}
+
+p{
+    text-align: left;
+    text-decoration: none;
+    font-style: normal;
+}
+#Home
+{
+    text-align: left;
+    text-decoration-color: brown;
+    text-size-adjust: 200;
+}
+
+
+
